@@ -1,7 +1,7 @@
 ### Oi, eu sou Kaylaine Assunção 👋
 
 - 😄 Pronouns: Ela/Dela
-- ⚡ Sistemas de informação 2/8 
+- ⚡ Sistemas de informação 3/8 
 <div align="center">
   <a href="https://github.com/Kaylaineasb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaylaineasb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
