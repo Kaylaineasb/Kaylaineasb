@@ -13,7 +13,7 @@
   <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif">
+  <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;" src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif">
 </div>
    
   ##
