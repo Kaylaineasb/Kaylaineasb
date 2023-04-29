@@ -1,11 +1,10 @@
 <div align="center">
    <h1>
      OI! Eu sou Kaylaine Assunção   
-     <img src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif" width="35px" height="35px">
    </h1>
 </div>
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" min-width="380px" max-width="380px" width="380px" align="right">
- <div>
+<img src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif" min-width="380px" max-width="380px" width="380px" align="right">
+ <div align="center">
    <p>📚 Estudante do Instituto Federal de Sergipe</p>
    <p>💻 3/8 Sistemas de informação</p> 
    <p>🌎 Brasil </p>
