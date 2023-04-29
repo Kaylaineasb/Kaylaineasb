@@ -10,7 +10,7 @@
    <p>🌎 Brasil </p>
    </div>
    <img src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif" min-width="280px" max-width="280px" width="280px">
-<\div><br>
+<br>
 <div align="center">
   <a href="https://github.com/Kaylaineasb-01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaylaineasb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
