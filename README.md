@@ -3,13 +3,14 @@
      OI! Eu sou Kaylaine Assunção   
    </h1>
 </div>
-<img src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif" min-width="380px" max-width="380px" width="380px" align="right">
- <div align="center">
+<div align="center">
+    <div align="center" width="300px">
    <p>📚 Estudante do Instituto Federal de Sergipe</p>
    <p>💻 3/8 Sistemas de informação</p> 
    <p>🌎 Brasil </p>
- </div>
-<br>
+   </div>
+   <img src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif" min-width="280px" max-width="280px" width="280px">
+<\div><br>
 <div align="center">
   <a href="https://github.com/Kaylaineasb-01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaylaineasb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
