@@ -13,7 +13,7 @@
   <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/338224_epZhN3WK.png">
+  <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperbetter.com%2Fpt%2Fhd-wallpaper-fuabd&psig=AOvVaw0g8svCeZ6UA2VrIOYF3j0r&ust=1682851086881000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD7xvzyzv4CFQAAAAAdAAAAABAO">
 </div>
    
   ##
