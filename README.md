@@ -1,7 +1,9 @@
 ### Oi, eu sou Kaylaine Assunção 👋
 <div style="display: inline_block"><br>
-  - 😄 Pronouns: Ela/Dela
-  - ⚡ Sistemas de informação 3/8 
+  <p>
+    - 😄 Pronouns: Ela/Dela
+    - ⚡ Sistemas de informação 3/8
+  <\p> 
   <img align="right" alt="Kay-pic" height="150" style="border-radius:50px;" src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif">
 <\div>
 
