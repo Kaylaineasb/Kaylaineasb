@@ -30,7 +30,7 @@
    
 </div>
 <div style="display: inline_block"><br>
-   <h1>Ferramentas</h1>
+   <h1></h1>
    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=autocad" />
    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=eclipse" />
    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=figma" />
