@@ -18,10 +18,29 @@
 </div><br>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=css" />
+  <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=html" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=js" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=java" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=py" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=react" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ts" />
+  <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" />
+  <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=firebase" />
+   
+</div>
+<div style="display: inline_block"><br>
+   <h1>Ferramentas</h1>
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=autocad" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=eclipse" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=figma" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=git" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=github" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=idea" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=postman" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=unity" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=vite" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=vscode" />
 </div>
    
   ##
@@ -32,6 +51,6 @@
   <a href = "mailto:kaylaineasb9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaylaineasb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Kaylaineasb/Kaylaineasb/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
