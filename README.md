@@ -6,7 +6,7 @@
 <div align="center">
     <div align="center" width="300px">
    <p>📚 Estudante do Instituto Federal de Sergipe</p>
-   <p>💻 4/8 Sistemas de informação</p> 
+   <p>💻 5/8 Sistemas de informação</p> 
    <p>🌎 Brasil </p>
    </div>
    <img src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif" min-width="280px" max-width="280px" width="280px">
