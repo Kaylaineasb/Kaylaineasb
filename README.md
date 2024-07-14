@@ -1,22 +1,29 @@
 <div align="center">
    <h1>
-     OI! Eu sou Kaylaine Assunção   
+     Oi! Eu sou Kaylaine Assunção   
    </h1>
 </div>
 <div align="center">
     <div align="center" width="300px">
+       <h3 align="center">
+  Front-end Developer • Designer
+</h3>
    <p>📚 Estudante do Instituto Federal de Sergipe</p>
    <p>💻 5/8 Sistemas de informação</p> 
    <p>🌎 Brasil </p>
    </div>
    <img src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif" min-width="280px" max-width="280px" width="280px">
 <br>
-<div align="center">
-  <a href="https://github.com/Kaylaineasb-01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaylaineasb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaylaineasb&layout=compact&langs_count=7&theme=github_dark">
-</div><br>
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaylaineasb&show_icons=true&count_private=true&title_color=7800ff&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaylaineasb&layout=compact&title_color=7800ff&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
 </div>
+<br>
+</div>
+<h2>My Stack</h2>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=css" />
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=html" />
@@ -29,6 +36,7 @@
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=firebase" />
    
 </div>
+
 <div style="display: inline_block"><br>
    <h1></h1>
    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=autocad" />
