@@ -12,7 +12,7 @@
    <p>💻 5/8 Sistemas de informação</p> 
    <p>🌎 Brasil </p>
    </div>
-   <img src="https://bestanimations.com/media/computers/78704119funny-homer-computer-animated-gif-38.gif" min-width="280px" max-width="280px" width="280px">
+   <img src="https://github.com/Kaylaineasb/Kaylaineasb/blob/main/WhatsApp%20Image%202024-07-14%20at%2016.01.13.jpeg" min-width="280px" max-width="280px" width="280px">
 <br>
 <div align="center">  
   
