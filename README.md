@@ -9,7 +9,7 @@
   Front-end Developer • Designer
 </h3>
    <p>📚 Estudante do Instituto Federal de Sergipe</p>
-   <p>💻 5/8 Sistemas de informação</p> 
+   <p>💻 6/8 Sistemas de informação</p> 
    <p>🌎 Brasil </p>
    </div>
    <img src="https://github.com/Kaylaineasb/Kaylaineasb/blob/main/WhatsApp%20Image%202024-07-14%20at%2016.01.13.jpeg" min-width="280px" max-width="280px" width="280px">
