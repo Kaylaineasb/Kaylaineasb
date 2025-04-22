@@ -1,12 +1,12 @@
 <div align="center">
    <h1>
-     Oi! Eu sou Kaylaine Assunção   
+     Oi, Eu sou Kaylaine Assunção!   
    </h1>
 </div>
 <div align="center">
     <div align="center" width="300px">
        <h3 align="center">
-  Front-end Developer
+  Front-end/Gamer Developer
 </h3>
    <p>📚 Estudante do Instituto Federal de Sergipe</p>
    <p>💻 7/8 Sistemas de informação</p> 
