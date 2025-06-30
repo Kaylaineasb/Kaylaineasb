@@ -6,7 +6,7 @@
 <div align="center">
     <div align="center" width="300px">
        <h3 align="center">
-  Front-end/Gamer Developer
+  Front-end/ QA / Gamer Developer
 </h3>
    <p>📚 Estudante do Instituto Federal de Sergipe</p>
    <p>💻 7/8 Sistemas de informação</p> 
