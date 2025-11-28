@@ -30,6 +30,7 @@
    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=java" />
    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=py" />
    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=react" />
+   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=angular" />
    <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=ts" />
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=mysql" />
   <img align="center" height="30" width="40" src="https://skillicons.dev/icons?i=firebase" />
