@@ -8,8 +8,7 @@
        <h3 align="center">
   Full-stack com foco em front-end/ QA / Gamer Developer
 </h3>
-   <p>📚 Estudante do Instituto Federal de Sergipe</p>
-   <p>💻 Sistemas de informação</p> 
+   <p>💻 Graduada em Sistemas de informação pelo Instituto Federal de Sergipe</p> 
    <p>🌎 Brasil </p>
    </div>
 <br>
