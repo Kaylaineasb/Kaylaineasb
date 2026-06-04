@@ -14,9 +14,7 @@
 <br>
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kaylaineasb&show_icons=true&count_private=true&title_color=7800ff&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaylaineasb&layout=compact&title_color=7800ff&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  ![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
   
 </div>
 <br>
