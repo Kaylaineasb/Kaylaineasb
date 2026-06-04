@@ -14,7 +14,7 @@
 <br>
 <div align="center">  
   
-  ![Metrics](./assets/metrics.svg)
+  ![Metrics](./assets/metrics-advanced.svg)
   
 </div>
 <br>
