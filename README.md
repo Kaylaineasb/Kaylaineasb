@@ -14,7 +14,7 @@
 <br>
 <div align="center">  
   
-  ![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
+  ![Metrics]([https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg](https://raw.githubusercontent.com/Kaylaineasb/Kaylaineasb/47e37f443494f3fd20db0348b7ed02281482214f/assets/metrics.svg))
   
 </div>
 <br>
