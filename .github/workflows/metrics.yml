@@ -1,39 +1,51 @@
-name: GitHub Metrics
+name: GitHub Metrics Advanced
 
 on:
-  # Permite execução manual do workflow
   workflow_dispatch:
-
-  # Executa automaticamente todo dia às 6h da manhã (UTC)
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Token de autenticação (obrigatório)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Seu usuário do GitHub
           user: Kaylaineasb
+          filename: assets/metrics-advanced.svg
 
-          # Nome do arquivo que será gerado
-          filename: assets/metrics.svg
-
-          # Seções base a serem incluídas
+          # Configurações gerais
           base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          config_theme: dark
 
-          # Plugin de linguagens de programação
+          # Plugin de linguagens
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          plugin_languages_indepth: yes
 
           # Plugin de linhas de código
           plugin_lines: yes
+
+          # Calendário isométrico
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Hábitos
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+
+          # Contribuições notáveis
+          plugin_notable: yes
+          plugin_notable_filter: stars:>100
+
+          # Stargazers
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
