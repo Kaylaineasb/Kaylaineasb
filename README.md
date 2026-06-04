@@ -14,7 +14,7 @@
 <br>
 <div align="center">  
   
-  ![Metrics]((https://raw.githubusercontent.com/Kaylaineasb/Kaylaineasb/47e37f443494f3fd20db0348b7ed02281482214f/assets/metrics.svg))
+  ![Metrics](./assets/metrics.svg)
   
 </div>
 <br>
